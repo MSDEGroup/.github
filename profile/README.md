@@ -30,11 +30,11 @@
 
 **Client:** JavaScript, TypeScript, React, Redux Toolkit, RTK Query, React Router, React Hook Form, Classnames, SCSS, ESlint, Prettier, Husky, Lint-staged, Commitlint, Vite, Yarn, Docker, Nginx, git
 
-**Server:** Node, Express, ESlint, Prettier, Husky, Lint-staged, Commitlint
+**Server:** Node, Express, PostgreSQL, ESlint, Prettier, Husky, Lint-staged, Commitlint, Docker, git
 
 
 ## 🔗 Ссылки
-[![site](https://img.shields.io/badge/основной_сайт-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://msdegroupcourses.com)
+[![site](https://img.shields.io/badge/основной_сайт-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://msdegroup.com)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
